@@ -41,5 +41,5 @@ $verified = ZubQuant::verify($token, $sigKeys['verifyKey'], ['parseJson' => true
 
 ## License
 
-MIT © [Md. Zubaer Ahammed](https://zubaer.com) — Get ZubQuant Pro at [buy.polar.sh](https://buy.polar.sh/polar_cl_brmuJexJSmUsWDysyGsTNjFpVhmAJAqRoSPvi0G4qie).
+MIT © [Md. Zubaer Ahammed](https://zubaer.com) — Get ZubQuant Pro at [Patreon Shop (ZubQuant Pro)](https://www.patreon.com/Zubaer/posts/zubquant-pro-e-0-174534260).
 
